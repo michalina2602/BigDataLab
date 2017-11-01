@@ -10,3 +10,9 @@ Go to your home directory, and clone the repository. In case you made a copy (fo
 	cd
 	git clone https://github.com/michalina2602/BigDataLab.git
 	cd BigDataLab
+	
+2. Open the Jupyter Notebook and follow the instructions
+
+jupyter notebook GTD_mini.ipynb
+
+
