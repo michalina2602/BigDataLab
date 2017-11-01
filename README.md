@@ -8,5 +8,5 @@ You can download it from this website: https://www.kaggle.com/START-UMD/gtd
 Go to your home directory, and clone the repository. In case you made a copy (fork) provide your own URL
 
 	cd
-	git clone https://github.com/tstokrk/bme-data-exp.git
-	cd bme-data-exp
+	git clone https://github.com/michalina2602/BigDataLab.git
+	cd BigDataLab
