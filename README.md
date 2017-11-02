@@ -16,9 +16,10 @@ You can download it from this website: https://www.kaggle.com/START-UMD/gtd
 
 	>jupyter notebook GTD.ipynb
 
-4. In case you had any problems with the size of csv file, use this command:
+4. In case you have any problems with the size of csv file, use this command:
 
 	>jupyter notebook --NotebookApp.iopub_data_rate_limit=1.0e10
 
-
+5. In case you face an issue with running the jupyter notebook (https://stackoverflow.com/questions/39989588/jupyter-notebook-is-not-showing-result-but-in-for-each-input) 
+	-> restart it 
 
