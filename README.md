@@ -5,10 +5,10 @@ You can download it from this website: https://www.kaggle.com/START-UMD/gtd
 
 1. Clone the repository to your local PC
 
-	Go to your home directory, and clone the repository. In case you made a copy (fork) provide your own URL:
-	cd
-	git clone https://github.com/michalina2602/BigDataLab.git
-	cd BigDataLab
+	Go to your home directory, and clone the repository. In case you made a copy (fork) provide your own URL: <br>
+	cd<br>
+	git clone https://github.com/michalina2602/BigDataLab.git <br>
+	>cd BigDataLab
 	
 2. Download the database from the website and save it in your local directory (where you work with jupyter)
 
