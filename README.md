@@ -6,19 +6,19 @@ You can download it from this website: https://www.kaggle.com/START-UMD/gtd
 1. Clone the repository to your local PC
 
 	Go to your home directory, and clone the repository. In case you made a copy (fork) provide your own URL: <br>
-	cd<br>
-	git clone https://github.com/michalina2602/BigDataLab.git <br>
+	>cd<br>
+	>git clone https://github.com/michalina2602/BigDataLab.git <br>
 	>cd BigDataLab
 	
 2. Download the database from the website and save it in your local directory (where you work with jupyter)
 
 3. Open the Jupyter Notebook and follow the instructions
 
-	jupyter notebook GTD.ipynb
+	>jupyter notebook GTD.ipynb
 
 4. In case you had any problems with the size of csv file, use this commend:
 
-	jupyter notebook --NotebookApp.iopub_data_rate_limit=1.0e10
+	>jupyter notebook --NotebookApp.iopub_data_rate_limit=1.0e10
 
 
 
