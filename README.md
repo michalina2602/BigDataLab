@@ -10,7 +10,7 @@ You can download it from this website: https://www.kaggle.com/START-UMD/gtd
 	>git clone https://github.com/michalina2602/BigDataLab.git <br>
 	>cd BigDataLab
 	
-2. Download the database from the website and save it in your local directory (where you work with jupyter)
+2. Download the database from the website and save it in your local directory (where you work with jupyter) as gtd.csv
 
 3. Open the Jupyter Notebook and follow the instructions
 
